@@ -1,0 +1,14 @@
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\bin\Debug\net8.0\Lekce-5-HW.exe
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\bin\Debug\net8.0\Lekce-5-HW.deps.json
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\bin\Debug\net8.0\Lekce-5-HW.runtimeconfig.json
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\bin\Debug\net8.0\Lekce-5-HW.dll
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\bin\Debug\net8.0\Lekce-5-HW.pdb
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\obj\Debug\net8.0\Lekce-5-HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\obj\Debug\net8.0\Lekce-5-HW.AssemblyInfoInputs.cache
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\obj\Debug\net8.0\Lekce-5-HW.AssemblyInfo.cs
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\obj\Debug\net8.0\Lekce-5-HW.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\obj\Debug\net8.0\Lekce-5-HW.dll
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\obj\Debug\net8.0\refint\Lekce-5-HW.dll
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\obj\Debug\net8.0\Lekce-5-HW.pdb
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\obj\Debug\net8.0\Lekce-5-HW.genruntimeconfig.cache
+C:\Users\Petr\Desktop\Lekce-5-HW\Lekce-5-HW\Lekce-5-HW\obj\Debug\net8.0\ref\Lekce-5-HW.dll
